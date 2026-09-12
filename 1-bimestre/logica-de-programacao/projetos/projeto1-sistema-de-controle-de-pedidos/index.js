@@ -12,8 +12,9 @@ const subtotal = (preco * quantidade)
 const valorDesconto = (subtotal * descontoPercentual/100)
 const valorFinal = subtotal - valorDesconto
 const troco = valorPago - valorFinal
-const resumo = `cliente:${cliente}
+`const resumo =`` cliente:${cliente}
 cidade:${cidade}
+
 produto:${produto}
 categoria:${categoria}
 preco:${preco}
