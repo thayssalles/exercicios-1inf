@@ -7,7 +7,6 @@ Você continua fazendo parte da equipe de desenvolvimento que presta serviços d
 Um mercadinho contratou o time para desenvolver um **relatório simples das vendas da semana**.
 
 Durante a reunião, a gerente explicou:
-
 > "Todos os dias eu anoto o valor vendido. No fim da semana, preciso saber o total vendido, a média por dia, quantos dias bateram a meta diária, qual foi o melhor dia e se batemos a meta da semana."
 >
 
